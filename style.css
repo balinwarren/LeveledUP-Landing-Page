@@ -171,3 +171,58 @@ a {
   font-weight: 100;
   color: #1f2937;
 }
+
+/* Modal */
+
+.modal {
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-banner {
+  display: flex;
+  height: 200px;
+  width: 1200px;
+  background-color: #3882f6;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.modal-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.modal-contact {
+  background-color: #3882f6;
+  border: 2px solid #f9faf8;
+  border-radius: 10px;
+  width: 120px;
+  height: 40px;
+  color: #f9faf8;
+  font-weight: 700;
+  margin-top: 5px;
+}
+
+.modal-text {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.modal-text h4 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f9faf8;
+  margin: 0;
+}
+
+.modal-text p {
+  font-size: 14px;
+  font-weight: 100;
+  color: #f9faf8;
+  margin: 0;
+}

@@ -93,7 +93,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  height: 610px;
   padding: 0 0 30px 0;
   box-sizing: border-box;
 }
@@ -137,4 +137,37 @@ a {
   font-weight: 300;
   color: #1f2937;
   margin: 0;
+}
+
+/* Testimonial */
+.testimonial {
+  display: flex;
+  height: 500px;
+  background-color: #e5e7eb;
+  justify-content: center;
+  align-items: center;
+}
+
+.test-text {
+  display: flex;
+  max-width: 800px;
+  flex-direction: column;
+}
+
+.test-text p {
+  margin: 0;
+}
+
+#customer {
+  text-align: right;
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+#quote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+  color: #1f2937;
 }

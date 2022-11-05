@@ -226,3 +226,17 @@ a {
   color: #f9faf8;
   margin: 0;
 }
+
+/* Footer */
+
+.footer {
+  background-color: #1f2937;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer p {
+  color: #f9faf8;
+}

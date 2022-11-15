@@ -1,6 +1,8 @@
 # Project-Landing-Page
 Project: Landing Page from The Odin Project
 
+## Live Demo --> https://balinwarren.github.io/LeveledUP-Landing-Page/
+
 I designed this page after a fake dnd store meant to be a one stop for all Game Masters
 This project was a great challenge for me trying to get a real handle on the CSS and trying to understand every change I was making.
 I also worked really hard to find the resources through normal means and avoid looking at what other students of the odin project created.
